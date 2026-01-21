@@ -10,7 +10,7 @@ function once(fn) {
         called = true;
     }
     return result;
-}
+ }
 }
 
 
